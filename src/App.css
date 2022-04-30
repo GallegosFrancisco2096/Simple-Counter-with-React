@@ -1,0 +1,18 @@
+.TheBigOne {
+  display: flex;
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+  background: black;
+
+}
+
+.TheBigOne div{
+  display: inline-block;
+  font-size: 60px;
+  line-height: 60px;
+  height: 60px;
+  background-color: #101010;
+  color: white;
+  padding: 20px;
+}
